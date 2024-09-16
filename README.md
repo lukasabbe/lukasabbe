@@ -30,7 +30,7 @@ I do hobby programming with small projects. Otherwise, I am going to science in 
 
 **JS** (Here I have worked for the most on a private discord bot for SGC)
 
-- Gamerbot 3.0 (No open source)
+- Gamerbot 4.0 [Gamerbot 4.0](https://github.com/onlinesgc/GamerBot4.0) Discord bot for SGC
 - [Gamerbot Rest API](https://github.com/stamdiscord/Gamerbot-REST-API) (Not done, but is going to be layer for Gamerbot4.0)
 - [Skin-pack](https://github.com/lukasabbe/skin-pack) (Generates a Minecraft PACK)
 
