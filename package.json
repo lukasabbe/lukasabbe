@@ -1,0 +1,22 @@
+{
+  "name": "lukasabbe",
+  "version": "1.0.0",
+  "description": "I enjoy hobby programming and working on small projects. Additionally, I am pursuing a degree in Computer Science and Software Engineering at LIU.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasabbe/lukasabbe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasabbe/lukasabbe/issues"
+  },
+  "homepage": "https://github.com/lukasabbe/lukasabbe#readme",
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  }
+}
