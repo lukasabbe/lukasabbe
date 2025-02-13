@@ -24,7 +24,7 @@ A few of my Minecraft Mods
 - [CustomMOTD](https://github.com/lukasabbe/CustomMotd) (Minecraft fabric mod)
 
 
-**JS**
+**JS/TS**
 
 - Gamerbot 4.0 [Gamerbot 4.0](https://github.com/onlinesgc/GamerBot4.0) Discord bot for SGC
 - [Gamerbot Rest API](https://github.com/stamdiscord/Gamerbot-REST-API) (Layer for Gamerbot4.0)
