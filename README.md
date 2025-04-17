@@ -1,4 +1,4 @@
-# Hello - Total stars over all projects 7
+# Hello - Total stars over all projects 8
 
 I enjoy hobby programming and working on small projects. Additionally, I am pursuing a degree in Computer Science and Software Engineering at LIU.
 
