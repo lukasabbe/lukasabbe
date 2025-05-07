@@ -18,8 +18,6 @@ I enjoy hobby programming and working on small projects. Additionally, I am purs
 A few of my Minecraft Mods
 - [Bookshelf inspector](https://github.com/lukasabbe/bookshelf-inspector) (Minecraft Fabric mod)
 - [Simple elytra hud](https://github.com/lukasabbe/simple-elytra-hud) (Minecraft Fabric mod)
-- [Trusted travels](https://github.com/lukasabbe/Trusted-Travels) (Minecraft Fabric mod)
-- [Disable Phantoms Individually](https://github.com/lukasabbe/Disable-Phantoms-Individually) (Minecraft Fabric mod)
 - [RespondCommand](https://github.com/lukasabbe/RespondCommand) (Minecraft Fabric mod)
 - [CustomMOTD](https://github.com/lukasabbe/CustomMotd) (Minecraft fabric mod)
 
@@ -28,7 +26,7 @@ A few of my Minecraft Mods
 
 - Gamerbot 4.0 [Gamerbot 4.0](https://github.com/onlinesgc/GamerBot4.0) Discord bot for SGC
 - [Gamerbot Rest API](https://github.com/stamdiscord/Gamerbot-REST-API) (Layer for Gamerbot4.0)
-- [Skin-pack](https://github.com/lukasabbe/skin-pack) (Generates a Minecraft PACK)
+- [Mojang API wrapper](https://github.com/lukasabbe/Mojang-API-wrapper) (An mojang API wrapper)
 
 
 **C#** (There are few projects I have on GitHub because this was my first language and I didn't save stuff xD)
