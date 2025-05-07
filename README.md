@@ -26,6 +26,6 @@ In my spare time, I love working on small development projects, mainly Minecraft
 
 # Stats
 
-Stars over all projects - 8 stars
-Forks over all projects - 2 forks
-Total projects - 30 projects
+- Stars over all projects - 8 stars
+- Forks over all projects - 2 forks
+- Total projects - 30 projects
