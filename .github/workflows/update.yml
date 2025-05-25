@@ -1,7 +1,6 @@
 on:
   schedule:
   - cron: "00 12,00 * * *"
-  
   push:
     branches:
       - main
@@ -11,7 +10,7 @@ on:
 jobs:
   get_adresses:
     name: update readme
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: actions/checkout@v4
         with:
