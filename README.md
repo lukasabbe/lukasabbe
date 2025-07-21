@@ -26,7 +26,7 @@ In my spare time, I love working on small development projects, mainly Minecraft
 
 # Stats
 
-- Stars over all projects - 9 stars
+- Stars over all projects - 10 stars
 - Forks over all projects - 2 forks
 - Total projects - 30 projects
-- Total Minecraft Mod Downlaods - 185473
+- Total Minecraft Mod Downlaods - 187286
