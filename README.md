@@ -1,32 +1,31 @@
-# Hello
+# Hello there, I'm Lukas!
 
-Hi, I'm Lukas!
-I live in Linköping, Sweden, and I'm studying Software Engineering at LIU.
-In my spare time, I love working on small development projects, mainly Minecraft modding and Discord bot development.
+I'm a third year Software Engineer student at [Linköpings University (LiU)](https://liu.se/en).
 
-# Languages
-- Java
-- C#
-- Javascript/TypeScript
-- C/C++
-- Python
+When I'm not studying, I love working on small development projects.
+Mainly Minecraft modding and Discord bots.
 
-# Projects
+## Languages / Technologies i fell comfortable with
+- **Java / C#**
+- **Javascript/TypeScript**
+- **Python**
+- **Git**
 
-**Projects**
+## Featured Projects
 
-- [TDDD78 projekt](https://github.com/lukasabbe/TDDD78-projekt) (Course from LIU)
+### Minecraft Modding (Fabric)
+- [Bookshelf Inspector](https://github.com/lukasabbe/bookshelf-inspector) - A Fabric mod for inspecting bookshelves.
+- [Copper Grates Bubble](https://modrinth.com/mod/copper-grates-bubble) - This mod allows soul sand and magma blocks effects to go thru copper grates
+- [Simple Transport HUD](https://modrinth.com/mod/simple-transport-hud) - A Hud mod for different transports in Minecraft
 
-- [Bookshelf inspector](https://github.com/lukasabbe/bookshelf-inspector) (Minecraft Fabric mod)
-- [Simple elytra hud](https://github.com/lukasabbe/simple-elytra-hud) (Minecraft Fabric mod)
+### Discord Bots & Services
+- [Gamerbot 4.0](https://github.com/onlinesgc/GamerBot4.0) - A Discord bot developed for SGC.
+- [Gamerbot REST API](https://github.com/stamdiscord/Gamerbot-REST-API) - The backbone API for Gamerbot 4.0 and other SGC services.
+- [Mojang API Wrapper](https://github.com/lukasabbe/Mojang-API-wrapper) - A wrapper designed to make interacting with Mojang's APIs effortless.
+- [LIU-Tentor-API](https://github.com/lukasabbe/LIU-Tentor-API) - A REST API for accessing exam results from LiU
 
-- [Gamerbot 4.0](https://github.com/onlinesgc/GamerBot4.0) (Discord bot for SGC)
-- [Gamerbot Rest API](https://github.com/stamdiscord/Gamerbot-REST-API) (API for Gamerbot4.0 and other SGC services)
-- [Mojang API wrapper](https://github.com/lukasabbe/Mojang-API-wrapper) (An Mojang API wrapper, for easy use with mojangs API:s)
-
-# Stats
-
-- Stars over all projects - 14 stars
-- Forks over all projects - 3 forks
-- Total projects - 30 projects
-- Total Minecraft Mod Downlaods - 1187448
+## Stats
+- **Total Stars:** 14
+- **Total Forks:** 3
+- **Total Projects:** 30
+- **Minecraft Mod Downloads:** 1188542
