@@ -28,4 +28,4 @@ Mainly Minecraft modding and Discord bots.
 - **Total Stars:** 13
 - **Total Forks:** 4
 - **Total Projects:** 30
-- **Minecraft Mod Downloads:** 1547380
+- **Minecraft Mod Downloads:** 1551521
