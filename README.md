@@ -25,7 +25,7 @@ Mainly Minecraft modding and Discord bots.
 - [LIU-Tentor-API](https://github.com/lukasabbe/LIU-Tentor-API) - A REST API for accessing exam results from LiU
 
 ## Stats
-- **Total Stars:** 13
+- **Total Stars:** 14
 - **Total Forks:** 5
 - **Total Projects:** 30
-- **Minecraft Mod Downloads:** 1888454
+- **Minecraft Mod Downloads:** 1902847
